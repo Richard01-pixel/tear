@@ -1101,7 +1101,7 @@ h2{
 
 .footer{
     grid-area: footer;
-    
+    height: 400px;
 }
 
 .nti{
@@ -3498,6 +3498,3 @@ font-size: 18px;
 
 .like :hover{color:rgb(0, 132, 255);}
 
-.jo{
-    width: 1400px;
-}
