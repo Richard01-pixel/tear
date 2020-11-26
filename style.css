@@ -76,7 +76,7 @@
     font-size: 9px;
 }
 
-.d button{
+.d {
     z-index: 10;
     position: fixed;
     bottom:530px;
@@ -132,7 +132,7 @@
     background-color: transparent;
 }
 
-.g button{
+.g{
     z-index: 10;
     position: fixed;
     bottom: 540px;
