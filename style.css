@@ -79,7 +79,7 @@
 .d {
     z-index: 10;
     position: fixed;
-    bottom:530px;
+    bottom:50px;
     background-color: transparent;
     border: 1px solid transparent;
     font-size: 18px;
