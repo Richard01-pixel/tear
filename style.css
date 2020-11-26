@@ -80,7 +80,7 @@ body{
     font-size: 9px;
 }
 
-.d{
+.d button{
     z-index: 10;
     position: fixed;
     bottom:580px;
@@ -136,7 +136,7 @@ body{
     background-color: transparent;
 }
 
-.g{
+.g button{
     z-index: 10;
     position: fixed;
     bottom: 560px;
