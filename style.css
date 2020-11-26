@@ -79,7 +79,7 @@
 .d button{
     z-index: 10;
     position: fixed;
-    bottom: 300px;
+    top:300px;
     background-color: transparent;
     border: 1px solid transparent;
     font-size: 18px;
@@ -135,7 +135,7 @@
 .g button{
     z-index: 10;
     position: fixed;
-    bottom: 300px;
+    top: 300px;
     left: 1090px;
     font-size: 13px;
     width: 120px;
