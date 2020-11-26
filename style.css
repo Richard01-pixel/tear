@@ -79,7 +79,7 @@
 .d {
     z-index: 10;
     position: fixed;
-    top:500px;
+    bottom:550px;
     background-color: transparent;
     border: 1px solid transparent;
     font-size: 18px;
@@ -135,7 +135,7 @@
 .g{
     z-index: 10;
     position: fixed;
-    bottom: 540px;
+    bottom: 550px;
     left: 1090px;
     font-size: 13px;
     width: 120px;
